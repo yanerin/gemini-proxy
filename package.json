@@ -1,0 +1,6 @@
+{
+  "name": "gemini-proxy",
+  "version": "1.0.0",
+  "description": "Gemini API proxy for PUP Chatbot",
+  "main": "index.js"
+}
